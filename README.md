@@ -11,4 +11,4 @@ If I mustache you a question...I'll do it here.
 * We utilized RESTful routing and resourcing
 
 
-![index](app/assets/images/myaq-index)
+![index](app/assets/images/myaq-index.png)
