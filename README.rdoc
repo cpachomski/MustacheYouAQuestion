@@ -11,3 +11,4 @@ MYAQ Overflow is a Stack Overflow clone built entirely using Ruby on Rails.
 * We utilized RESTful routing and resourcing
 
 
+![index](app/assets/images/myaq-index)
